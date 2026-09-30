@@ -1,0 +1,13 @@
+# Lab 2: MiCard - How to Build Beautiful UIs with Flutter Widgets
+
+React Native conversion of the original Flutter lab.
+
+**Status:** Work in progress.
+
+Planned contents:
+
+- React Native source code in `source/`
+- Android-compatible implementation
+- Setup and run instructions
+
+The demo video will be stored separately on the developer's machine.
